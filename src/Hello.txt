@@ -1,0 +1,2 @@
+Hello!
+Repozitory is initialized.1234567
